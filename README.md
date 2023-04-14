@@ -16,8 +16,8 @@ In this project, we reviewed the research paper above, implemented the experimen
   
 ----------------------------------------------
 Repository organization: 
-* the folder [Experiments reconstruction](https://github.com/abouhadid/Data-Wrangling/tree/main/Experiments%20reconstruction) contains the notebook of the experiments discussed in the article along with the 5 datasets and plots
+* the folder [Experiments reconstruction](https://github.com/abouhadid/Data-Wrangling/tree/main/Experiments%20reconstruction) contains the notebook of the experiments discussed in the article along with the 5 datasets and plots.
 * the subfolder [Contribution/GAIN-V2](https://github.com/abouhadid/Data-Wrangling/tree/main/Contribution/GAIN-V2) contains the same files for the modified model GAIN-V2
-* the subfolder [Contribution/MNIST](https://github.com/abouhadid/Data-Wrangling/tree/main/Contribution/MNIST) contains a script input_data.py to download MNIST, a notebook of the architectures definition and experiments and the resulting imputation images
+* the subfolder [Contribution/MNIST](https://github.com/abouhadid/Data-Wrangling/tree/main/Contribution/MNIST) contains a script input_data.py to download MNIST and a notebook of the architectures definition and experiments and the resulting imputation images.
 * the subfolder [Contribution/PNEUMONIA](https://github.com/abouhadid/Data-Wrangling/tree/main/Contribution/PNEUMONIA) contains a notebook for the preprocessing pipelines, the architectures definition and experiments and the resulting imputation images. Make sure to use the link provided in the notebook header to download the data.
 * the subfolder [Contribution/WGAIN](https://github.com/abouhadid/Data-Wrangling/tree/main/Contribution/WGAIN) contains the dataset, the loaded models and the notebook used to train and test the wGAIN model.
