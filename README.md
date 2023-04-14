@@ -7,6 +7,7 @@ Yassine ABOU HADID
 
 ----------------------------------------------
 Paper: https://arxiv.org/pdf/1806.02920.pdf ( GAIN: Missing Data Imputation using Generative Adversarial Nets )
+
 Authors code: https://github.com/jsyoon0823/GAIN
 
 ----------------------------------------------
